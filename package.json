@@ -1,0 +1,8 @@
+{
+  "name": "small-redux-logger",
+  "version": "0.1.0",
+  "description": "A simple redux logger that uses console.log",
+  "main": "main.js",
+  "author": "mail@adipascu.ro",
+  "license": "MIT"
+}
