@@ -18,6 +18,11 @@
         "url": "https://github.com/adipascu/small-redux-logger/issues"
     },
     "homepage": "https://github.com/adipascu/small-redux-logger#readme",
+    "keywords": [
+        "redux",
+        "logger",
+        "redux-logger"
+    ],
     "devDependencies": {
         "babel-core": "^6.26.3",
         "babel-eslint": "^8.2.3",
